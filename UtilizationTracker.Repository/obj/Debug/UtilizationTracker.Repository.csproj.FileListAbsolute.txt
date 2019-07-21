@@ -1,0 +1,9 @@
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\bin\Debug\UtilizationTracker.Repository.dll
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\bin\Debug\UtilizationTracker.Repository.pdb
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\obj\Debug\UtilizationTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\obj\Debug\UtilizationTracker.Repository.dll
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\obj\Debug\UtilizationTracker.Repository.pdb
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\bin\Debug\UtilizationTracker.Model.dll
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\bin\Debug\UtilizationTracker.Model.pdb
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\obj\Debug\UtilizationTracker.Repository.csprojAssemblyReference.cache
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Repository\obj\Debug\UtilizationTracker.Repository.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Model\bin\Debug\UtilizationTracker.Model.dll
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Model\bin\Debug\UtilizationTracker.Model.pdb
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Model\obj\Debug\UtilizationTracker.Model.csproj.CoreCompileInputs.cache
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Model\obj\Debug\UtilizationTracker.Model.dll
+C:\Users\chandrakant.vegad\source\repos\UtilizationTracker\UtilizationTracker.Model\obj\Debug\UtilizationTracker.Model.pdb
